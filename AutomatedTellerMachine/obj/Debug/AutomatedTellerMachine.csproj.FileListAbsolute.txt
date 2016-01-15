@@ -229,3 +229,4 @@ C:\Users\A.Kuspakov\Desktop\mvc5\ASPNETMVC5\Ch7\Final\AutomatedTellerMachine\obj
 C:\Users\A.Kuspakov\Desktop\mvc5\ASPNETMVC5\Ch7\Final\AutomatedTellerMachine\obj\Debug\AutomatedTellerMachine.csproj.GenerateResource.Cache
 C:\Users\A.Kuspakov\Desktop\mvc5\ASPNETMVC5\Ch7\Final\AutomatedTellerMachine\obj\Debug\AutomatedTellerMachine.dll
 C:\Users\A.Kuspakov\Desktop\mvc5\ASPNETMVC5\Ch7\Final\AutomatedTellerMachine\obj\Debug\AutomatedTellerMachine.pdb
+C:\Users\A.Kuspakov\Desktop\mvc5\ASPNETMVC5\Ch7\Final\AutomatedTellerMachine\obj\Debug\AutomatedTellerMachine.csprojResolveAssemblyReference.cache

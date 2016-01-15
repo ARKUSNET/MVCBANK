@@ -224,8 +224,7 @@ C:\Users\A.Kuspakov\Desktop\mvc5\ASPNETMVC5\Ch7\Final\AutomatedTellerMachine\bin
 C:\Users\A.Kuspakov\Desktop\mvc5\ASPNETMVC5\Ch7\Final\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Google.xml
 C:\Users\A.Kuspakov\Desktop\mvc5\ASPNETMVC5\Ch7\Final\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\A.Kuspakov\Desktop\mvc5\ASPNETMVC5\Ch7\Final\AutomatedTellerMachine\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\A.Kuspakov\Desktop\mvc5\ASPNETMVC5\Ch7\Final\AutomatedTellerMachine\obj\Debug\AutomatedTellerMachine.Migrations.InitialCreate.resources
-C:\Users\A.Kuspakov\Desktop\mvc5\ASPNETMVC5\Ch7\Final\AutomatedTellerMachine\obj\Debug\AutomatedTellerMachine.Migrations.AccountNumberChanges.resources
-C:\Users\A.Kuspakov\Desktop\mvc5\ASPNETMVC5\Ch7\Final\AutomatedTellerMachine\obj\Debug\AutomatedTellerMachine.csproj.GenerateResource.Cache
 C:\Users\A.Kuspakov\Desktop\mvc5\ASPNETMVC5\Ch7\Final\AutomatedTellerMachine\obj\Debug\AutomatedTellerMachine.dll
 C:\Users\A.Kuspakov\Desktop\mvc5\ASPNETMVC5\Ch7\Final\AutomatedTellerMachine\obj\Debug\AutomatedTellerMachine.pdb
+C:\Users\A.Kuspakov\Desktop\mvc5\ASPNETMVC5\Ch7\Final\AutomatedTellerMachine\obj\Debug\AutomatedTellerMachine.Migrations.InitialCreate.resources
+C:\Users\A.Kuspakov\Desktop\mvc5\ASPNETMVC5\Ch7\Final\AutomatedTellerMachine\obj\Debug\AutomatedTellerMachine.csproj.GenerateResource.Cache
